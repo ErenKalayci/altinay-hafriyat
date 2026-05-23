@@ -61,3 +61,18 @@
   font-weight: 700;
   cursor: pointer;
 }
+
+
+@media (max-width: 768px) {
+  .contact {
+    padding: 70px 0;
+  }
+
+  .contact-container {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-info h2 {
+    font-size: 32px;
+  }
+}

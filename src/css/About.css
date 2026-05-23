@@ -44,3 +44,21 @@
   background-color: #1f1f1f;
   color: white;
 }
+
+@media (max-width: 768px) {
+  .about {
+    padding: 70px 0;
+  }
+
+  .about-container {
+    grid-template-columns: 1fr;
+  }
+
+  .about-image img {
+    height: 300px;
+  }
+
+  .about-content h2 {
+    font-size: 32px;
+  }
+}

@@ -32,3 +32,24 @@
 .nav a:hover {
   color: #f5b301;
 }
+
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .logo {
+    font-size: 22px;
+  }
+
+  .nav {
+    gap: 14px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .nav a {
+    font-size: 14px;
+  }
+}
