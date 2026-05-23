@@ -1,0 +1,21 @@
+.footer {
+  background-color: #111;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.footer-container h2 {
+  margin-bottom: 14px;
+  font-size: 28px;
+}
+
+.footer-container p {
+  color: #aaa;
+  margin-bottom: 18px;
+}
+
+.footer-container span {
+  font-size: 14px;
+  color: #777;
+}
