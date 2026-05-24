@@ -1,11 +1,17 @@
 import "../css/Header.css";
+import logo from "../assets/logo.png";
 
 function Header() {
   return (
     <header className="header">
       <div className="container header-container">
-        <div className="logo">
-          <span>Altınay</span> Hafriyat
+        <div className="logo-area">
+          <img src={logo} alt="Altınay Logo" />
+
+          <div className="logo-text">
+            <h2>Altınay</h2>
+            <span>Hafriyat Nakliyat</span>
+          </div>
         </div>
 
         <nav className="nav">

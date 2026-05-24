@@ -13,7 +13,7 @@ function Contact() {
 
           <div className="contact-item">
             <strong>Telefon:</strong>
-            <span>+90 555 000 00 00</span>
+            <span>+90 532 653 17 65</span>
           </div>
 
           <div className="contact-item">
@@ -23,7 +23,10 @@ function Contact() {
 
           <div className="contact-item">
             <strong>Adres:</strong>
-            <span>İstanbul / Türkiye</span>
+            <span>
+              İstanbul Caddesi, Kınalı Kavşağı, Mezbaha Sokak, No:23
+              Silivri/İstanbul
+            </span>
           </div>
         </div>
 
