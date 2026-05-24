@@ -18,6 +18,7 @@ function Header() {
           <a href="#home">Ana Sayfa</a>
           <a href="#services">Hizmetler</a>
           <a href="#about">Hakkımızda</a>
+          <a href="#proje">Projeler</a>
           <a href="#contact">İletişim</a>
         </nav>
       </div>
