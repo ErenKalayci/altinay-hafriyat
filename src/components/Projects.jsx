@@ -20,7 +20,7 @@ function Projects() {
   ];
 
   return (
-    <section className="projects">
+    <section className="projects" id="proje">
       <div className="container">
         <div className="section-title">
           <h2>Projelerimiz</h2>

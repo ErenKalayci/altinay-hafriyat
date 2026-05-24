@@ -48,19 +48,21 @@
 @media (max-width: 768px) {
   .header-container {
     height: auto;
+    min-height: 60px;
     padding: 14px 0;
     flex-direction: column;
-    gap: 12px;
+    gap: 14px;
   }
 
   .logo-area img {
-    width: 140px;
+    width: 150px;
   }
 
   .nav {
-    gap: 18px;
+    gap: 16px;
     flex-wrap: wrap;
     justify-content: center;
+    row-gap: 10px;
   }
 
   .nav a {
