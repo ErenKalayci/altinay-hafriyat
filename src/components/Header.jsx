@@ -1,5 +1,5 @@
 import "../css/Header.css";
-import logo from "../assets/logo1.png";
+import logo from "../assets/ALTINAY.png";
 
 function Header() {
   return (
